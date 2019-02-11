@@ -1,3 +1,3 @@
-# Headline
+# Future Custom API project
 
-> An awesome project.
+> Still haven't decided what to make.

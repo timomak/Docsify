@@ -1,3 +1,3 @@
-[filename](README.md ':include')
-[filename](test.md ':include')
-[filename](1.md ':include')
+[All](README.md ':include')
+[test](test.md ':include')
+[test2](1.md ':include')

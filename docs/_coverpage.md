@@ -6,6 +6,6 @@
 
 - Going to display heroes
 - Implement another API to display gamer data
-
+- Making sure something changes
 [GitHub](https://github.com/timomak/Docsify/)
 [Get Started](#future-custom-api-project)

@@ -1,6 +1,5 @@
 <!-- _navbar.md -->
 
-*  **[Syllabus](README.md)**
-*  **[Project](Projects/02-Custom-API-Project.md)**
-*  **[Tracker](https://make.sc/trackbew1.2)**
-* [Make School](https://www.makeschool.com)
+*  **[V1 Overwatch API](README.md)**
+*  **[MVP Planning](SideTabs/mvp-plan.md)**
+*  **[Goal](SideTabs/goal.md)**

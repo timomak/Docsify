@@ -1,3 +1,3 @@
-[All](README.md ':include')
-[test](test.md ':include')
-[test2](1.md ':include')
+- **[V1 Overwatch API](README.md)**
+- [MVP Planning](SideTabs/mvp-plan.md)
+- [Goal](SideTabs/goal.md)
